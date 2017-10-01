@@ -1,0 +1,10 @@
+[title = "My page!"]
+[style = "styles.css"]
+[author = "Daniel Shaw <dashaw92@gmail.com>"]
+
+body -> div.classname#idname@name
+name -> p { "Hello!" }
+name -> br
+name -> p.styles { "Broken with &lt;br /&gt; and styled with CSS!"}
+name -> div.divtwo#2nddiv
+2nddiv -> p { "Nested!" }

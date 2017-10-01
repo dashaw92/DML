@@ -1,0 +1,14 @@
+[root]
+name = "sitegen"
+version = "0.1.0"
+dependencies = [
+ "scan_fmt 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "scan_fmt"
+version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum scan_fmt 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "fa6802ea974ecc8dc187344c6836df3681a5392489bb0342c1baf0da4f67d8b4"
